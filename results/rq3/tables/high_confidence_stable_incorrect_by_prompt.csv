@@ -1,0 +1,4 @@
+prompt_profile,count,percentage_of_total
+few_shot,560,36.31647211413748
+one_shot,487,31.58236057068742
+zero_shot,495,32.1011673151751

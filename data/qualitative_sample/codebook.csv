@@ -1,0 +1,11 @@
+Dimension,Code,Operational rule
+Rationale Correctness,RC2 — Correct,The rationale correctly applies the target QUS criterion and sufficiently explains the model's decision.
+Rationale Correctness,RC1 — Partially correct,"There is a valid core, but the rationale is incomplete, imprecise, too narrow, or partially mixes another criterion."
+Rationale Correctness,RC0 — Incorrect,The central reasoning does not correspond to the target criterion or does not support the model's decision.
+Evidence Support,ES2 — Fully supported,The cited evidence directly and sufficiently supports the rationale.
+Evidence Support,ES1 — Partially supported,"The evidence is relevant but incomplete, narrow, or requires additional context."
+Evidence Support,ES0 — Not supported,"The evidence is irrelevant, contradictory, or does not support the rationale."
+,,
+Important rule,,The LLM rationale does not need to reproduce the Gold Standard wording. Evaluate whether it is valid under the operational QUS definition.
+Set-level criteria,,"For Conflict-free, Unique, Uniform, Independent, and Complete, consult the Backlog Reference sheet when necessary."
+Blinding,,"Model, provider, prompt, run, confidence, stability, and explicit TP/TN/FP/FN labels are intentionally omitted from evaluator sheets."

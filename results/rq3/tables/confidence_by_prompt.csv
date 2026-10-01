@@ -1,0 +1,10 @@
+prompt_profile,confidence,total,correct,accuracy,incorrect
+few_shot,High,34085,30032,0.8810913891741236,4053
+few_shot,Low,8,5,0.625,3
+few_shot,Moderate,1397,832,0.595561918396564,565
+one_shot,High,33977,29949,0.8814492156458781,4028
+one_shot,Low,16,7,0.4375,9
+one_shot,Moderate,1497,985,0.6579826319305278,512
+zero_shot,High,33591,29423,0.8759191450090799,4168
+zero_shot,Low,15,7,0.4666666666666667,8
+zero_shot,Moderate,1884,1203,0.6385350318471338,681

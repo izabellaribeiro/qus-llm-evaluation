@@ -1,0 +1,4 @@
+group,n,RC0,RC1,RC2,ES0,ES1,ES2
+all,30,6,10,14,3,9,18
+correct,16,0,2,14,0,2,14
+incorrect,14,6,8,0,3,7,4

@@ -1,0 +1,25 @@
+{
+  "input": "C:\\Users\\izabe\\Documents\\Doutorado\\TOSEM\\TOSEM-Experiment\\replication_runs\\TOSEM-Replication\\replication_runs\\check\\outputs\\parsed\\normalized\\llm_predictions.csv",
+  "input_sha256": "8d19533f932a99f304522b5274d7c68be63905f0a4a8d4de03bea610056e3fc9",
+  "ground_truth": "C:\\Users\\izabe\\Documents\\Doutorado\\TOSEM\\TOSEM-Experiment\\replication_runs\\TOSEM-Replication\\data\\ground_truth\\gold_standard_qus13_final.csv",
+  "ground_truth_sha256": "f0b89a877f580fb95532bbec430c163b406aad39973ce7a8a246b86d37788043",
+  "expected_units": 21294,
+  "observed_prediction_rows": 106470,
+  "observed_units": 21294,
+  "complete_run_structure_units": 21294,
+  "complete_units_evaluated": 21294,
+  "incomplete_units": 0,
+  "entirely_missing_units": 0,
+  "excluded_units": 0,
+  "exclusion_reason_counts": {},
+  "unexpected_ground_truth_keys": [],
+  "confidence_value_counts": {
+    "High": 101653,
+    "Low": 39,
+    "Moderate": 4778
+  },
+  "stable_units": 19200,
+  "stable_incorrect_units": 1843,
+  "high_confidence_stable_incorrect_units": 1542,
+  "data_quality_status": "PASS"
+}
